@@ -25,13 +25,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  themeadery
 youtube_username:  https://www.youtube.com/@mjodr
 
-minima:
-  skin: dark
-
 # Build settings
 theme: jekyll-theme-midnight
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
