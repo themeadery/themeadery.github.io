@@ -22,8 +22,9 @@ title: The Meadery
 description: See what's fermenting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  themeadery
-youtube_username:  https://www.youtube.com/@mjodr
+github_username: themeadery
+youtube_username: https://www.youtube.com/@mjodr
+show_excerpts: true
 
 # Build settings
 theme: jekyll-theme-midnight
@@ -49,3 +50,6 @@ theme: jekyll-theme-midnight
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# include:
+#   - _pages

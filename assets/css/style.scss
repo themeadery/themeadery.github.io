@@ -1,0 +1,36 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+/* Style image captions */
+img + em {
+  display: block;
+  text-align: center;
+}
+a + em {
+  display: block;
+  text-align: center;
+}
+
+section {
+  margin-top: 40px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+  
+    .page-links {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      flex-grow: 1;
+      text-align: right;
+  
+      li {
+        display: inline-block;
+        margin-left: 15px;
+      }
+    }
+  }

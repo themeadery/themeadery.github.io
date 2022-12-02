@@ -1,0 +1,19 @@
+---
+layout: post
+title: Reefer
+date: 2021-09-24 01:13:57.000000000 -07:00
+type: post
+parent_id: '0'
+published: true
+status: publish
+categories: []
+tags:
+- python
+author: Matt Mead
+permalink: "/reefer/"
+---
+I finally got around to making a GitHub repo for a python script I had been working on for a while.
+
+It started off as a way to control my saltwater reef aquarium using my computer sitting right next to it and a FT232H from Adafruit. It then morphed into a way to check the inside and outside temperature and humidity, which was very useful during a recent HVAC evaporator coil failure and replacement. More details at the repo: [https://github.com/themeadery/reefer](https://github.com/themeadery/reefer)
+
+![]({{ site.baseurl }}/assets/2021/09/Screenshot-2021-09-23-180735.png)
