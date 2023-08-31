@@ -1,5 +1,6 @@
 ---
 title: "HOWTO: Download Betaflight Configurator Nightlies"
+permalink: "/howto-download-betaflight-configurator-nightlies/"
 ---
 Getting errors in Betaflight Configurator? Confused as to what Configurator even is?
 
