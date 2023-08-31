@@ -1,6 +1,8 @@
 ---
 title: "HOWTO: Download Betaflight Configurator Nightlies"
 ---
+Getting errors in Betaflight Configurator? Confused as to what Configurator even is?
+
 ## What is Betaflight Configurator?
 
 Say you wandered into the Betaflight world browsing the [official GitHub repo](https://github.com/betaflight/betaflight). You head to the [releases page](https://github.com/betaflight/betaflight/releases), look at the Assets and see a bunch of hex files.
