@@ -16,11 +16,10 @@ meta:
 author: Matt Mead
 permalink: "/services/"
 ---
+Currently I am designing functional parts for 3D printing and offering them for sale on my [Cults 3D Store](https://cults3d.com/en/users/The_Meadery/3d-models).  
+If you think I can design something for you that won't make my brain explode from complexity [contact me here](mailto:matt@themeadery.buzz) or on [my socials](/about/). I design using Fusion 360 and Solidworks.
+
 Update December 2021: I am no longer offering any NFT, WAX or KCC services. Below has been preserved for posterity.
-
-<br /><br />
-
-Update October 2021: I am working full-time on the [Space Cookie](https://spacecookie.io) project. [Read more about my current services]({{ site.baseurl }}/full-time-project-space-cookie/)
 
 * * *
 

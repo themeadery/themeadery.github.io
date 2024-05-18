@@ -10,6 +10,7 @@ My name is Matt Mead and I have no idea what I am doing.
 [Facebook](https://www.facebook.com/profile.php?id=61559625423446)  
 [Personal Facebook](https://www.facebook.com/phorensic)  
 [Youtube](https://www.youtube.com/@mjodr)
+[Email](mailto:matt@themeadery.buzz)
 
 This site is built using Jekyll. You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
